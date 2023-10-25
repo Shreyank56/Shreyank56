@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning Electronics and Communications Engineering
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me 2GI19EC056@students.git.edu
+- 📫 How to reach me shreyankk056@gmail.com
 
 <!---
 Shreyank56/Shreyank56 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
